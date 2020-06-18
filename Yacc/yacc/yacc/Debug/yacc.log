@@ -1,0 +1,6 @@
+﻿  yacc.cpp
+c:\users\acer\desktop\09017141邵童斐组\yacc\yacc\yacc\yacc.cpp(1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\acer\desktop\09017141邵童斐组\yacc\yacc\yacc\yacc.cpp: note: 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+c:\users\acer\desktop\09017141邵童斐组\yacc\yacc\yacc\yacc.cpp(631): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\acer\desktop\09017141邵童斐组\yacc\yacc\yacc\yacc.cpp(657): warning C4018: “<”: 有符号/无符号不匹配
+  yacc.vcxproj -> C:\Users\acer\Desktop\09017141邵童斐组\Yacc\yacc\Debug\yacc.exe

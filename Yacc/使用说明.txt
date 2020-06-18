@@ -1,0 +1,22 @@
+一、yacc
+源代码于“yacc/yacc/yacc.cpp”
+使用说明：
+1.打开项目 "yacc/yacc.sln"
+2.执行编译后，在"yacc/Debug/"下生成了"seuyacc.cpp"和"table.txt"以及"yacc.exe"
+3.也可以不打开项目编译，直接运行在"yacc/Debug/"下编译好的"yacc.exe"
+
+二、SeuYacc
+源代码引用了"yacc/Debug/seuyacc.cpp"
+使用说明:
+1.打开项目"SeuYacc/SeuYacc.sln"
+2.执行编译后，显示结果，同时在"SeuYacc/Debug/"下生成了"SeuYacc.exe"
+3.也可以不打开项目编译，直接运行在"SeuYacc/Debug/"下编译好的"SeuYacc.exe"
+
+三、预测分析表和控制台输出结果图
+1.此文件夹下的文件只是为方便检查结果。
+
+【注】
+1."yacc/Debug/"下需包含"minic.y"
+2."SeuYacc/Debug/"需包含Lex部分的输出"token.txt"
+
+
